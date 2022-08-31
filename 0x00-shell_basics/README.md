@@ -11,3 +11,4 @@ the 9-firstdirdeletion script shows deletion of my_first_directory
 the 10-back script display change from working directory to previous directory
 the 11-lists scrpt shows list of all the files in the current directory and parent of the working directory
 the 12-file_type script print the type of filenamed  iamafile in the /tmp directory
+the 13-symbolic_link shows symbolic link for ls in the current directory
