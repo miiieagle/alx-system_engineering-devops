@@ -2,3 +2,4 @@ The 0-current_working_directory script prints the absolute path name of the curr
 The 1-listit script indicates the contents of the current directory
 the 2-bring_me_home script shows how to change from working directory to user's home directory
 the 3-listit script display the long content of the current directory
+the 4-listmorefiles script shows the hidden files in the current directory
