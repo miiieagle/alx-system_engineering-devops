@@ -9,3 +9,4 @@ the 7-movethatfile script display movement of betty from tmp to tmp/my_first_dir
 the 8-firstdelete script indicates betty delete from tmp/my_first_directory
 the 9-firstdirdeletion script shows deletion of my_first_directory
 the 10-back script display change from working directory to previous directory
+the 11-lists scrpt shows list of all the files in the current directory and parent of the working directory
