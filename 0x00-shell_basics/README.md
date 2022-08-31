@@ -4,3 +4,4 @@ the 2-bring_me_home script shows how to change from working directory to user's 
 the 3-listit script display the long content of the current directory
 the 4-listmorefiles script shows the hidden files in the current directory
 the 5-listfilesdigitonly script indicate digit files in the current directory
+the 6-firstdirectory script create my_first_directory
