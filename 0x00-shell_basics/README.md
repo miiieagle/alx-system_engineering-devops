@@ -7,3 +7,4 @@ the 5-listfilesdigitonly script indicate digit files in the current directory
 the 6-firstdirectory script create my_first_directory
 the 7-movethatfile script display movement of betty from tmp to tmp/my_first_directory
 the 8-firstdelete script indicates betty delete from tmp/my_first_directory
+the 9-firstdirdeletion script shows deletion of my_first_directory
