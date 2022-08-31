@@ -6,3 +6,4 @@ the 4-listmorefiles script shows the hidden files in the current directory
 the 5-listfilesdigitonly script indicate digit files in the current directory
 the 6-firstdirectory script create my_first_directory
 the 7-movethatfile script display movement of betty from tmp to tmp/my_first_directory
+the 8-firstdelete script indicates betty delete from tmp/my_first_directory
