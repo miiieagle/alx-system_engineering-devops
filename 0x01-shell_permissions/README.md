@@ -9,3 +9,4 @@
 8-James_Bond script gives permission to other users but restrict owner and the group owner
 9-John_Doe script set the mode of hello
 10-mirrror_permissions script display hello mode as the same as olleh mode
+11-directories_permissions script gives excute permission to all subdirectories of the current directory for the owner, the group owner and all other users
