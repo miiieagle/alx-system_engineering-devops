@@ -12,3 +12,4 @@
 11-directories_permissions script gives excute permission to all subdirectories of the current directory for the owner, the group owner and all other users
 12-directory_permission script creates my_dir directory with permission 751 in the working directory
 13-change_group script switches group owner from hello to school
+100-change_owner_and_group script changes owner to vincent and group owner to staff
