@@ -13,3 +13,4 @@ the 11-lists scrpt shows list of all the files in the current directory and pare
 the 12-file_type script print the type of filenamed  iamafile in the /tmp directory
 the 13-symbolic_link shows symbolic link for ls in the current directory
 the 14-copy_html script copies HTML files from current working directory to the parent working directory
+the 100-lets_movescript moves all files beginning with an uppercase letter to /tmp/u directory
