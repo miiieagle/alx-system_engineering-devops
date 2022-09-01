@@ -15,3 +15,4 @@ the 13-symbolic_link shows symbolic link for ls in the current directory
 the 14-copy_html script copies HTML files from current working directory to the parent working directory
 the 100-lets_movescript moves all files beginning with an uppercase letter to /tmp/u directory
 the 100-clean_emacs script delete all the files in current directory that end with ~
+the 102-tree script shows /welcome/to/school directory
