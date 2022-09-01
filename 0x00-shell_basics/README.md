@@ -16,3 +16,4 @@ the 14-copy_html script copies HTML files from current working directory to the 
 the 100-lets_movescript moves all files beginning with an uppercase letter to /tmp/u directory
 the 100-clean_emacs script delete all the files in current directory that end with ~
 the 102-tree script shows /welcome/to/school directory
+the 103-comas script shows all files in current directory that start with ,
