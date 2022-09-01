@@ -3,3 +3,4 @@
 2-groups script prints all the groups the current user
 3-new_owner script switch hello to betty user
 4-empty script creates hello file
+5-execute script display execute permission to hello owner
