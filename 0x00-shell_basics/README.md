@@ -17,3 +17,4 @@ the 100-lets_movescript moves all files beginning with an uppercase letter to /t
 the 100-clean_emacs script delete all the files in current directory that end with ~
 the 102-tree script shows /welcome/to/school directory
 the 103-comas script shows all files in current directory that start with ,
+the school.mgc display a magic file that can be used with command file to delete school data files
