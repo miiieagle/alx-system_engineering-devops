@@ -10,3 +10,4 @@
 9-John_Doe script set the mode of hello
 10-mirrror_permissions script display hello mode as the same as olleh mode
 11-directories_permissions script gives excute permission to all subdirectories of the current directory for the owner, the group owner and all other users
+12-directory_permission script creates my_dir directory with permission 751 in the working directory
