@@ -6,3 +6,4 @@
 5-execute script display execute permission to hello owner
 6-multiple_permissions script shows the excute permission to owner and the group owner
 7-everybody script display the excute permision to owner, the group owner and other users
+8-James_Bond script gives permission to other users but restrict owner and the group owner
