@@ -8,3 +8,4 @@
 7-everybody script display the excute permision to owner, the group owner and other users
 8-James_Bond script gives permission to other users but restrict owner and the group owner
 9-John_Doe script set the mode of hello
+10-mirrror_permissions script display hello mode as the same as olleh mode
