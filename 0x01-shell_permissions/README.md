@@ -5,3 +5,4 @@
 4-empty script creates hello file
 5-execute script display execute permission to hello owner
 6-multiple_permissions script shows the excute permission to owner and the group owner
+7-everybody script display the excute permision to owner, the group owner and other users
